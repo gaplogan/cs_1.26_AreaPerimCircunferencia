@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.exe
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.deps.json
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.runtimeconfig.json
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.runtimeconfig.dev.json
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.dll
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\ref\cs_1.26_AreaPerimCircunferencia.dll
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\bin\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.pdb
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.csprojAssemblyReference.cache
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.AssemblyInfo.cs
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.dll
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\ref\cs_1.26_AreaPerimCircunferencia.dll
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.pdb
+E:\GitHub\cs_1.26_AreaPerimCircunferencia\obj\Debug\net5.0\cs_1.26_AreaPerimCircunferencia.genruntimeconfig.cache
